@@ -24,3 +24,5 @@ https://svs.gsfc.nasa.gov/vis/a000000/a003600/a003610/frames/3601x1801_2x1_30p/
 pip install pydmd
 
 conda install -c conda-forge ffmpeg
+
+コードは38MBあり、重すぎてそのままアップロードできませんでした。ダウンロードしてzipファイルを解凍してお使いください。
