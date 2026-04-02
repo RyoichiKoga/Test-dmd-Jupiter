@@ -1,11 +1,15 @@
 # Test-dmd-Jupiter
-このコードは試しに以下の木星の220枚の画像をpyDMD(https://github.com/PyDMD/PyDMD)で動かしたものです。
+このコードは試しに以下の木星の220枚の画像をpyDMDで動かしたものです。
 
 Jupiter Cloud Sequence from Cassini
 
 https://svs.gsfc.nasa.gov/3610/
 
 https://svs.gsfc.nasa.gov/vis/a000000/a003600/a003610/frames/3601x1801_2x1_30p/
+
+pyDMDチュートリアル
+
+https://github.com/PyDMD/PyDMD
 
 
 データセットはターミナルで以下のようにダウンロードします。
